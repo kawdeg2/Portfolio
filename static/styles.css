@@ -103,7 +103,7 @@ body {
     height: 100vh;
     min-height: 1000px;
     max-height: 1200px;
-    display: flex;
+    display: inline-table;
     align-items: center;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
