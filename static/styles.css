@@ -101,8 +101,10 @@ body {
 
 /* Hero Section - Mobile First */
 .hero {
-    min-height: 100vh;
-    display: flex;
+    height: 100vh;
+    min-height: 700px;
+    max-height: 900px;
+    display: inline-table;
     align-items: center;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
